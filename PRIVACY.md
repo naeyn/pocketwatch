@@ -144,9 +144,13 @@ offline research scripts, which are not part of the extension. Requests
 to Leetify carry only public Steam64 identifiers (those of the players in the
 match room and, for the session overview, your own) or, on your click, one
 match's demo link; nothing else about you is sent with them. Leetify is a statistics
-provider, not an analytics or advertising service: there is no analytics,
-telemetry, or advertising in this extension, and no data is sold or shared
-with anyone.
+provider, not an analytics or advertising service: there is no analytics, telemetry, or advertising in this extension. No data is sold, and nothing is shared with anyone beyond the requests described above.
+
+## Chrome Web Store Limited Use
+
+Pocketwatch's use of the information it receives complies with the
+[Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/limited-use),
+including the Limited Use requirements
 
 ## Removal
 
