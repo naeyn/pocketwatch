@@ -1,6 +1,6 @@
 # Privacy Policy — Pocketwatch
 
-_Last updated: 2026-11-23_
+_Last updated: 2026-11-25_
 
 Pocketwatch is a browser extension that shows CS2 map play and win rates for
 both teams in a Faceit match room. It is unofficial and not affiliated with
